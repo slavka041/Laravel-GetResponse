@@ -1,9 +1,13 @@
 {
-  "name": "dangermark/laravel-getresponse",
+  "name": "slavka/laravel-getresponse",
   "description": "A Laravel 7 wrapper for the GetResponse API",
-  "keywords": ["laravel", "laravel5", "getresponse"],
+  "keywords": ["laravel", "laravel7", "getresponse"],
   "license": "MIT",
   "authors": [
+    {
+      "name": "Vyacheslav Sinyakov",
+      "email": "vyacheslav.sinyakov@gmail.com"
+    },
     {
       "name": "Mark Halcroft",
       "email": "dangermark@gmail.com"
