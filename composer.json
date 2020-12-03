@@ -1,7 +1,7 @@
 {
   "name": "slavka/laravel-getresponse",
-  "description": "A Laravel 7 wrapper for the GetResponse API",
-  "keywords": ["laravel", "laravel7", "getresponse"],
+  "description": "A Laravel wrapper for the GetResponse API",
+  "keywords": ["laravel", "getresponse"],
   "license": "MIT",
   "authors": [
     {
@@ -14,8 +14,7 @@
     }
   ],
   "require": {
-    "php": ">=7.2",
-    "illuminate/support": "~5.0|~6.0|~7.0"
+    "php": ">=7.2"
   },
   "autoload": {
     "psr-0": {
